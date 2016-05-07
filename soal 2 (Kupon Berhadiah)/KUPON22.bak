@@ -1,0 +1,37 @@
+//PROGRAM PENENTUAN KUPON
+#include <iostream.h>
+#include <conio.h>
+int score;
+main(){
+scanf("%d",&score)
+cout<<"\t Input Score\n";
+cout<<" Masukan Score              : ";
+cin>>score;
+if (score>=8)
+Jumlah kupon 5 poin=score div 5
+{
+if (anak>0)
+{
+t*anak;
+}
+}
+
+else if (status==2)
+{
+tunj_anak=0;
+}
+
+else
+{
+cout<<" Anda Salah Memasukkan Kode\n";
+}
+pajak=0.1*gaji_pokok;
+gaji_bersih=gaji_pokok+tunj_anak-pajak;
+
+cout<<"\n\t Input Data\n";
+cout<<" Gaji Pokok      : Rp. "<<gaji_pokok<<endl;
+cout<<" Pajak gaji	 : Rp. "<<pajak<<endl;
+cout<<" Tunjangan Anak  : Rp. "<<tunj_anak<<endl;
+cout<<" Gaji Bersih     : Rp. "<<gaji_bersih<<endl;
+getch();
+}
